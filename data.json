@@ -1,0 +1,50 @@
+{
+  "yzudata":[
+    {
+            "latitude": 24.966762, "longitude": 121.264628,
+            "title": "元智大富翁",
+            "markerImage": "https://hp1.591.com.tw/house/active/2014/10/28/141450703090110700_400x290.jpg",
+            "weight":13
+    },
+    {
+            "latitude": 24.966552, "longitude": 121.263471,
+            "title": "元智生活會館", 
+            "markerImage": "https://cp2.591.com.tw/community/active/2015/05/19/143201177828733409_400x290.jpg",
+            "weight":19
+    },
+    {
+            "latitude": 24.966825, "longitude": 121.264033,
+            "title": "新西華", 
+            "markerImage": "https://cp2.591.com.tw/community/active/2015/05/19/143201177828733409_400x290.jpg",
+            "weight":19
+    }
+  ],
+  "cycdata":[
+    {
+            "latitude": 24.958469, "longitude": 121.243129,
+            "title": "中原DOUBLE",
+            "markerImage": "https://hp2.591.com.tw/house/active/2020/04/16/158703428843864609_730x460.water3.jpg",
+            "weight":13
+    },
+    {
+            "latitude": 24.956204, "longitude": 121.239906,
+            "title": "哈佛林A區", 
+            "markerImage": "https://hp2.591.com.tw/house/active/2020/04/11/158659538728356405_730x460.water3.jpg",
+            "weight":19
+    },
+    {
+            "latitude": 24.954916, "longitude": 121.242755,
+            "title": "柏德廣場哈佛區", 
+            "markerImage": "https://hp2.591.com.tw/house/active/2020/04/25/158777789816090709_730x460.water3.jpg",
+            "weight":19
+    }
+  ],
+  "ncudata":[
+    {
+            "latitude": 24.967503, "longitude": 121.182821,
+            "title": "中央柏德MBA",
+            "markerImage": "https://static.rakuya.com.tw/r1/n006/f3/19/12681006_1_b.jpeg?1588498540",
+            "weight":13
+    }
+  ]
+}
